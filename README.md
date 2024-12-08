@@ -55,7 +55,7 @@ Please cite us if our work is useful for your research.
 
 ## License
 
-This project is released under the [Apache 2.0 license](LICENSE).
+This project is released under the [MIT license](LICENSE).
 
 ## Acknowledgement
 

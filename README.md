@@ -46,9 +46,11 @@ Please cite us if our work is useful for your research.
 
 ```
 @article{zhang2024boostadapter,
-  title={BoostAdapter: Improving Test-Time Adaptation via Regional Bootstrapping},
+  title={Boostadapter: Improving vision-language test-time adaptation via regional bootstrapping},
   author={Zhang, Taolin and Wang, Jinpeng and Guo, Hang and Dai, Tao and Chen, Bin and Xia, Shu-Tao},
-  journal={arXiv preprint arXiv:2410.15430},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={67795--67825},
   year={2024}
 }
 ```
